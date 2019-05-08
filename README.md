@@ -3,6 +3,6 @@ Just another repository
 
 java project
  
- dvelopers choice of programming
+ developers choice of programming
  
  good experience
